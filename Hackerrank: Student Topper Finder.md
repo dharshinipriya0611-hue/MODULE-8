@@ -1,4 +1,4 @@
-# # 🔢 Hackerrank:# 🏆 Student Topper Finder
+# # 🔢 Hackerrank:# 🏆 Elements from list
 
 ## 🎯 Aim
 
